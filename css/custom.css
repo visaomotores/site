@@ -1,0 +1,54 @@
+#preloader {
+    background: #3258f0;
+}
+
+.navigation {
+    background: #131518;
+}
+
+.hero-area {
+    background: #001238;
+}
+
+.navbar-brand>img {
+    width: 250px;
+}
+
+.img-about {
+    width: 70%;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+.services .service-block h3 {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.services .service-block p {
+    color: black;
+}
+
+.contact-meta-block {
+    margin-bottom: 30px;
+}
+
+.portfolio-block:before {
+    background: #007bffa1;
+}
+
+.gradient,
+.title .border,
+.service-2 .service-item i {
+    background-image: linear-gradient(100deg, #007bff, #28abe3);
+}
+
+.video-player .play-icon i {
+    background: #c3f7ff;
+    color: #2472c7;
+}
+
+.social-icon li a {
+    color: #1e70c8;
+}
